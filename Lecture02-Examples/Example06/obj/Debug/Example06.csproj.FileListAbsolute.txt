@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\20170526\Lecture02-Examples\Example06\bin\Debug\Example06.exe.config
+C:\Users\user\Desktop\20170526\Lecture02-Examples\Example06\bin\Debug\Example06.exe
+C:\Users\user\Desktop\20170526\Lecture02-Examples\Example06\bin\Debug\Example06.pdb
+C:\Users\user\Desktop\20170526\Lecture02-Examples\Example06\obj\Debug\Example06.exe
+C:\Users\user\Desktop\20170526\Lecture02-Examples\Example06\obj\Debug\Example06.pdb
+D:\CS282\CS282-Homeworks\Lecture02-Examples\Example06\bin\Debug\Example06.exe.config
+D:\CS282\CS282-Homeworks\Lecture02-Examples\Example06\bin\Debug\Example06.exe
+D:\CS282\CS282-Homeworks\Lecture02-Examples\Example06\bin\Debug\Example06.pdb
+D:\CS282\CS282-Homeworks\Lecture02-Examples\Example06\obj\Debug\Example06.csprojResolveAssemblyReference.cache
+D:\CS282\CS282-Homeworks\Lecture02-Examples\Example06\obj\Debug\Example06.exe
+D:\CS282\CS282-Homeworks\Lecture02-Examples\Example06\obj\Debug\Example06.pdb
