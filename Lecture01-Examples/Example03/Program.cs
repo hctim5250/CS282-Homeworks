@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace Example03
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Student someone = new Student();
             someone.name = "邢博竣";
             Console.WriteLine("學生姓名:{0}",
-                someone.name); 
-
+                someone.name);
         }
     }
 }
