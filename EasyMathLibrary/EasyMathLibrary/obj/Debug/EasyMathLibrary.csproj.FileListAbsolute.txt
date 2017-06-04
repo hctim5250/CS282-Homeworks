@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Lecture03-Examples\EasyMathLibrary\EasyMathLibrary\bin\Debug\EasyMathLibrary.dll
+C:\Users\user\Desktop\Lecture03-Examples\EasyMathLibrary\EasyMathLibrary\bin\Debug\EasyMathLibrary.pdb
+C:\Users\user\Desktop\Lecture03-Examples\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lecture03-Examples\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
+C:\Users\user\Desktop\Lecture03-Examples\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb

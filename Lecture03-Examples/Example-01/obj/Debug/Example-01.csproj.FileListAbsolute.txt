@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example-01\bin\Debug\Example-01.exe.config
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example-01\bin\Debug\Example-01.exe
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example-01\bin\Debug\Example-01.pdb
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example-01\bin\Debug\EasyMathLibrary.dll
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example-01\bin\Debug\EasyMathLibrary.pdb
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example-01\obj\Debug\Example-01.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example-01\obj\Debug\Example-01.exe
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example-01\obj\Debug\Example-01.pdb

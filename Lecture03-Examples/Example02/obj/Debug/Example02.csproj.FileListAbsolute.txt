@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example02\bin\Debug\Example02.exe.config
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example02\bin\Debug\Example02.exe
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example02\bin\Debug\Example02.pdb
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example02\bin\Debug\WeatherStationLibrary.dll
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example02\bin\Debug\WeatherStationLibrary.pdb
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example02\obj\Debug\Example02.exe
+C:\Users\user\Desktop\Lecture03-Examples\Lecture03-Examples\Example02\obj\Debug\Example02.pdb
+C:\Users\user\Desktop\CS282-Examples\Lecture03-Examples\Example02\bin\Debug\Example02.exe.config
+C:\Users\user\Desktop\CS282-Examples\Lecture03-Examples\Example02\obj\Debug\Example02.exe
+C:\Users\user\Desktop\CS282-Examples\Lecture03-Examples\Example02\obj\Debug\Example02.pdb
+C:\Users\user\Desktop\CS282-Examples\Lecture03-Examples\Example02\bin\Debug\Example02.exe
+C:\Users\user\Desktop\CS282-Examples\Lecture03-Examples\Example02\bin\Debug\Example02.pdb
+C:\Users\user\Desktop\CS282-Examples\Lecture03-Examples\Example02\bin\Debug\WeatherStationLibrary.dll
+C:\Users\user\Desktop\CS282-Examples\Lecture03-Examples\Example02\bin\Debug\WeatherStationLibrary.pdb
+C:\Users\user\Desktop\CS282-Examples\Lecture03-Examples\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
