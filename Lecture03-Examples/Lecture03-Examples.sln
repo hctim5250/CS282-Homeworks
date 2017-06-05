@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-01", "Example-01\Example-01.csproj", "{85CB2FA9-B700-469D-A2AD-75E788AE5D68}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01", "Example-01\Example01.csproj", "{85CB2FA9-B700-469D-A2AD-75E788AE5D68}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyMathLibrary", "..\EasyMathLibrary\EasyMathLibrary\EasyMathLibrary.csproj", "{7E8FB378-FD53-43C2-9A07-FF0CBF46B3B2}"
 EndProject
