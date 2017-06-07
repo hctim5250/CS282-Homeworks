@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\bin\Debug\Example01.exe.config
+C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\bin\Debug\Example01.exe
+C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\bin\Debug\Example01.pdb
+C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\Debug\Example01.Form1.resources
+C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\Debug\Example01.Properties.Resources.resources
+C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\Debug\Example01.exe
+C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\Debug\Example01.pdb

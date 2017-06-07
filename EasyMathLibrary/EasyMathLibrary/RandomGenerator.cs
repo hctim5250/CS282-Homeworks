@@ -24,5 +24,10 @@ namespace EasyMathLibrary
         {
             return random.NextDouble();
         }
+
+        public int Next(int start, int end)
+        {
+            return this.random.Next(start, end);
+        }
     }
 }
