@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Example02
 {
-    internal enum Status { Success = 403, Error, SomeStatus }
+    internal enum Status { Success = 403, Error = 405, SomeStatus }
 
     internal class Program
     {
