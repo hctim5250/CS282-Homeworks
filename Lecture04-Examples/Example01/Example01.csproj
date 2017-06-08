@@ -109,6 +109,12 @@
   <ItemGroup>
     <None Include="Resources\10.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\EasyMathLibrary\EasyMathLibrary\EasyMathLibrary.csproj">
+      <Project>{7e8fb378-fd53-43c2-9a07-ff0cbf46b3b2}</Project>
+      <Name>EasyMathLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

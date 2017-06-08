@@ -37,18 +37,20 @@
             // scenePictureBox
             // 
             this.scenePictureBox.Image = global::Example01.Properties.Resources._1;
-            this.scenePictureBox.Location = new System.Drawing.Point(12, 10);
+            this.scenePictureBox.Location = new System.Drawing.Point(16, 12);
+            this.scenePictureBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.scenePictureBox.Name = "scenePictureBox";
-            this.scenePictureBox.Size = new System.Drawing.Size(498, 439);
+            this.scenePictureBox.Size = new System.Drawing.Size(664, 549);
             this.scenePictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.scenePictureBox.TabIndex = 0;
             this.scenePictureBox.TabStop = false;
             // 
             // yesButton
             // 
-            this.yesButton.Location = new System.Drawing.Point(12, 457);
+            this.yesButton.Location = new System.Drawing.Point(16, 571);
+            this.yesButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.yesButton.Name = "yesButton";
-            this.yesButton.Size = new System.Drawing.Size(245, 56);
+            this.yesButton.Size = new System.Drawing.Size(327, 70);
             this.yesButton.TabIndex = 1;
             this.yesButton.Text = "我選1";
             this.yesButton.UseVisualStyleBackColor = true;
@@ -56,9 +58,10 @@
             // 
             // noButton
             // 
-            this.noButton.Location = new System.Drawing.Point(265, 457);
+            this.noButton.Location = new System.Drawing.Point(353, 571);
+            this.noButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.noButton.Name = "noButton";
-            this.noButton.Size = new System.Drawing.Size(245, 56);
+            this.noButton.Size = new System.Drawing.Size(327, 70);
             this.noButton.TabIndex = 2;
             this.noButton.Text = "我選2";
             this.noButton.UseVisualStyleBackColor = true;
@@ -66,15 +69,17 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(520, 521);
+            this.ClientSize = new System.Drawing.Size(693, 651);
             this.Controls.Add(this.noButton);
             this.Controls.Add(this.yesButton);
             this.Controls.Add(this.scenePictureBox);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "上班族心事蝦狼災";
-
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.scenePictureBox)).EndInit();
             this.ResumeLayout(false);
 
         }

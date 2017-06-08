@@ -30,7 +30,8 @@ namespace Example01
             this.MakeDecision(2);
         }
 
-        private void MakeDecision(int decision)
+        private void MakeDecision(int decision)                        //case number對應scene number也對應到圖片number，
+                                                                       //所以劇情的順序並不會按照case number的順序
         {
             switch (this.currentScene.Number)
             {
@@ -40,11 +41,57 @@ namespace Example01
 
                 case 2:
                     if (decision == 1)
-                        this.currentScene.ChangeTo(8);
+                    {
+                        this.currentScene.ChangeTo(10);
+                        MessageBox.Show("GG惹");
+                    }
                     else
-                        this.currentScene.ChangeTo(3);
+                        this.currentScene.ChangeTo(8);
+                    break;
+
+                case 8:
+                    if (decision == 1)
+
+                        this.currentScene.ChangeTo(9);
+                    else
+                    {
+                        this.currentScene.ChangeTo(10);
+                        MessageBox.Show("GG惹");
+                    }
+                    break;
+
+                case 9:
+
+                    this.currentScene.ChangeTo(3);
+                    break;
+
+                case 3:
+                    if (decision == 1)
+                    {
+                        this.currentScene.ChangeTo(4);
+                        MessageBox.Show("GG惹");
+                    }
+                    else
+                        this.currentScene.ChangeTo(5);
+                    break;
+
+                case 5:
+                    if (decision == 1)
+                    {
+                        this.currentScene.ChangeTo(6);
+                        MessageBox.Show("GG惹");
+                    }
+                    else
+                    {
+                        this.currentScene.ChangeTo(7);
+                        MessageBox.Show("GG惹");
+                    }
                     break;
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
         }
     }
 }

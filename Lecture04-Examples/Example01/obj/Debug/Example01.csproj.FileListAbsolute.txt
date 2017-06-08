@@ -7,3 +7,14 @@ C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\
 C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\Debug\Example01.exe
 C:\Users\user\Desktop\CS282\Lecture04-Examples\Lecture04-Examples\Example01\obj\Debug\Example01.pdb
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\obj\Debug\Example01.Form1.resources
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\obj\Debug\Example01.Properties.Resources.resources
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\obj\Debug\Example01.exe
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\obj\Debug\Example01.pdb
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\bin\Debug\Example01.exe.config
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\bin\Debug\Example01.exe
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\bin\Debug\Example01.pdb
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\bin\Debug\EasyMathLibrary.dll
+C:\Users\Tim\Dropbox\C#\CS282-Homeworks\Lecture04-Examples\Example01\bin\Debug\EasyMathLibrary.pdb
