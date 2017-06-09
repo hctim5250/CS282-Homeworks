@@ -8,3 +8,8 @@ C:\Users\user\Desktop\CS282\EasyMathLibrary\EasyMathLibrary\bin\Debug\EasyMathLi
 C:\Users\user\Desktop\CS282\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\CS282\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
 C:\Users\user\Desktop\CS282\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb
+D:\Tim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\bin\Debug\EasyMathLibrary.dll
+D:\Tim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\bin\Debug\EasyMathLibrary.pdb
+D:\Tim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.csprojResolveAssemblyReference.cache
+D:\Tim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
+D:\Tim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb

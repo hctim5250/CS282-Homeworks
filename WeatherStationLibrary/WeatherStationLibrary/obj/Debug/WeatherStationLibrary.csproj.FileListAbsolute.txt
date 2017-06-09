@@ -2,3 +2,8 @@ C:\Users\user\Desktop\Lecture03-Examples\WeatherStationLibrary\WeatherStationLib
 C:\Users\user\Desktop\Lecture03-Examples\WeatherStationLibrary\WeatherStationLibrary\bin\Debug\WeatherStationLibrary.pdb
 C:\Users\user\Desktop\Lecture03-Examples\WeatherStationLibrary\WeatherStationLibrary\obj\Debug\WeatherStationLibrary.dll
 C:\Users\user\Desktop\Lecture03-Examples\WeatherStationLibrary\WeatherStationLibrary\obj\Debug\WeatherStationLibrary.pdb
+C:\Users\user\Desktop\CS282\CS282-Homeworks\WeatherStationLibrary\WeatherStationLibrary\bin\Debug\WeatherStationLibrary.dll
+C:\Users\user\Desktop\CS282\CS282-Homeworks\WeatherStationLibrary\WeatherStationLibrary\bin\Debug\WeatherStationLibrary.pdb
+C:\Users\user\Desktop\CS282\CS282-Homeworks\WeatherStationLibrary\WeatherStationLibrary\obj\Debug\WeatherStationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CS282\CS282-Homeworks\WeatherStationLibrary\WeatherStationLibrary\obj\Debug\WeatherStationLibrary.dll
+C:\Users\user\Desktop\CS282\CS282-Homeworks\WeatherStationLibrary\WeatherStationLibrary\obj\Debug\WeatherStationLibrary.pdb
