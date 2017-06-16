@@ -1,0 +1,8 @@
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\StudentScores\bin\Debug\StudentScores.exe.config
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\StudentScores\bin\Debug\StudentScores.exe
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\StudentScores\bin\Debug\StudentScores.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\StudentScores\bin\Debug\EasyMathLibrary.dll
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\StudentScores\bin\Debug\EasyMathLibrary.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\StudentScores\obj\Debug\StudentScores.csprojResolveAssemblyReference.cache
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\StudentScores\obj\Debug\StudentScores.exe
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\StudentScores\obj\Debug\StudentScores.pdb

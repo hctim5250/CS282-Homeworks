@@ -13,3 +13,13 @@ D:\Tim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\bin\Debug\Easy
 D:\Tim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.csprojResolveAssemblyReference.cache
 D:\Tim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
 D:\Tim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb
+C:\Users\user\Desktop\CS282\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\bin\Debug\EasyMathLibrary.dll
+C:\Users\user\Desktop\CS282\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\bin\Debug\EasyMathLibrary.pdb
+C:\Users\user\Desktop\CS282\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CS282\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
+C:\Users\user\Desktop\CS282\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\bin\Debug\EasyMathLibrary.dll
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\bin\Debug\EasyMathLibrary.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.csprojResolveAssemblyReference.cache
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\EasyMathLibrary\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb

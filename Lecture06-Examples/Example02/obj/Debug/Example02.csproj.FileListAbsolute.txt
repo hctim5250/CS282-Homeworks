@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\CS282\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\Example02.exe.config
+C:\Users\user\Desktop\CS282\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\Example02.exe
+C:\Users\user\Desktop\CS282\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\Example02.pdb
+C:\Users\user\Desktop\CS282\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\EasyMathLibrary.dll
+C:\Users\user\Desktop\CS282\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\EasyMathLibrary.pdb
+C:\Users\user\Desktop\CS282\CS282-Homeworks\Lecture06-Examples\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CS282\CS282-Homeworks\Lecture06-Examples\Example02\obj\Debug\Example02.exe
+C:\Users\user\Desktop\CS282\CS282-Homeworks\Lecture06-Examples\Example02\obj\Debug\Example02.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\Example02.exe.config
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\Example02.exe
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\Example02.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\EasyMathLibrary.dll
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\Example02\bin\Debug\EasyMathLibrary.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\Example02\obj\Debug\Example02.exe
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture06-Examples\Example02\obj\Debug\Example02.pdb
