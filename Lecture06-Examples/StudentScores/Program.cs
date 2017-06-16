@@ -13,16 +13,16 @@ namespace StudentScores
         {
             Scores[] scores = Scores.Generate(20, 40, 100);
             Console.WriteLine("排序前:");
-            foreach (Scores v in scores)
-                v.Print();
+            foreach (Scores s in scores)
+                s.Print();
 
             Console.Write("請選擇排序欄位: (1)國文, (2)英文, (3)數學, (4)總分");
             Scores.SortByField = (SortBy)int.Parse(Console.ReadLine());
             Array.Sort(scores);
 
             Console.WriteLine("排序後:");
-            foreach (Scores v in scores)
-                v.Print();
+            foreach (Scores s in scores)
+                s.Print();
         }
     }
 }
