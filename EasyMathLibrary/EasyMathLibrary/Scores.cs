@@ -56,7 +56,7 @@ namespace EasyMathLibrary
 
         public void Print()
         {
-            Console.WriteLine("Chinese:{0}, English: {1}, Math: {2}, Total: {3}", this.ChineseScores, this.EnglishScores, this.MathScores, this.Total);
+            Console.WriteLine("國文:{0}, 英文: {1}, 數學: {2}, 總分: {3}", this.ChineseScores, this.EnglishScores, this.MathScores, this.Total);
         }
 
         public static Scores Generate(int min, int max)

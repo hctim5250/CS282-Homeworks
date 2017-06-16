@@ -11,12 +11,15 @@ namespace StudentScores
     {
         private static void Main(string[] args)
         {
-            Scores[] scores = Scores.Generate(20, 40, 100);
+            Console.WriteLine("請輸入學生數量:");
+            int studentCount = int.Parse(Console.ReadLine());
+
+            Scores[] scores = Scores.Generate(studentCount, 40, 100);
             Console.WriteLine("排序前:");
             foreach (Scores s in scores)
                 s.Print();
 
-            Console.Write("請選擇排序欄位: (1)國文, (2)英文, (3)數學, (4)總分");
+            Console.Write("請選擇排序欄位: (0)國文, (1)英文, (2)數學, (3)總分");
             Scores.SortByField = (SortBy)int.Parse(Console.ReadLine());
             Array.Sort(scores);
 
