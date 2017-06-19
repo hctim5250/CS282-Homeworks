@@ -1,0 +1,10 @@
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\bin\Debug\PokemonLibrary.dll
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\bin\Debug\PokemonLibrary.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\obj\Debug\PokemonLibrary.dll
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\obj\Debug\PokemonLibrary.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\obj\Debug\PokemonLibrary.csprojResolveAssemblyReference.cache
+D:\Tim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\bin\Debug\PokemonLibrary.dll
+D:\Tim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\bin\Debug\PokemonLibrary.pdb
+D:\Tim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\obj\Debug\PokemonLibrary.csprojResolveAssemblyReference.cache
+D:\Tim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\obj\Debug\PokemonLibrary.dll
+D:\Tim\Dropbox\C#\CS282-Homeworks\PokemonLibrary\PokemonLibrary\obj\Debug\PokemonLibrary.pdb

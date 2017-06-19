@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PokemonLibrary
+namespace Example01
 {
-    public class Class1
+    public class 空服員 : 員工
     {
+        public int 飛行時數;
     }
 }

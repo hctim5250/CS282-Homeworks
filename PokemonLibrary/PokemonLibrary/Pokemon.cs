@@ -1,0 +1,83 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PokemonLibrary
+{
+    public enum OrderBy
+    {
+        Hp, Number, Cp
+    }
+
+    public abstract class Pokemon : IComparable<Pokemon>
+    {
+        protected int hp;
+        protected int currentHp;
+        protected int attack;
+        protected int defense;
+        protected int speed;
+        protected int iv;
+        public string Name { get; set; }
+        public static OrderBy OrderByField;
+
+        public int NationalNumber;
+
+        public int Hp
+        {
+            get => hp;
+            set
+            {
+                this.hp = value < 0 ? 0 : value;  //value<0嗎? yes=0，no=value (二分法)
+            }
+        }
+
+        public int CurrentHp
+        {
+            get => currentHp;
+            set
+            {
+                this.currentHp = value < 0 ? 0 : value;
+            }
+        }
+
+        public int Cp
+        {
+            get
+            {
+                return defense * 2 + attack * 3 + iv + speed;
+            }
+        }
+
+        public double Height { get; set; }
+        public double Weight { get; set; }
+
+        public int CompareTo(Pokemon other)
+        {
+            switch (OrderByField)
+            {
+                case OrderBy.Hp:
+                    return Compare(this.Hp, other.Hp);
+
+                case OrderBy.Cp:
+                    return Compare(this.Cp, other.Cp);
+
+                default:
+                    return Compare(this.NationalNumber, other.NationalNumber);
+            }
+        }
+
+        protected int Compare(int a, int b)
+        {
+            if (a > b)
+                return 1;
+            else if (a == b)
+                return 0;
+            else
+                return -1;
+        }
+
+        public abstract void Attack(Pokemon other);
+    }
+}
