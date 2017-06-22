@@ -42,6 +42,7 @@
             this.pokemonNameLabel.Size = new System.Drawing.Size(155, 24);
             this.pokemonNameLabel.TabIndex = 0;
             this.pokemonNameLabel.Text = "Pokemon Name";
+            this.pokemonNameLabel.Click += new System.EventHandler(this.pokemonNameLabel_Click);
             // 
             // pokemonHpLabel
             // 
@@ -71,7 +72,7 @@
             this.Controls.Add(this.pokemonHpLabel);
             this.Controls.Add(this.pokemonNameLabel);
             this.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "PokemonPanel";
             this.Size = new System.Drawing.Size(202, 168);
             this.ResumeLayout(false);

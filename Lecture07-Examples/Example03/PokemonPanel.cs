@@ -13,6 +13,8 @@ namespace Example03
 {
     public partial class PokemonPanel : UserControl
     {
+        public Pokemon pokemon;
+
         public PokemonPanel()
         {
             InitializeComponent();
@@ -24,11 +26,24 @@ namespace Example03
             this.TabIndex = 2;
         }
 
-        public void Render(Pokemon pokemon)
+        public void SetPokemon(Pokemon pokemon)
         {
-            pokemonNameLabel.Text = pokemon.Name;
-            pokemonHpLabel.Text = string.Format("HP :{0}", pokemon.Hp);
-            pokemonCurrentHpLabel.Text = string.Format("Current HP :{0}", pokemon.CurrentHp);
+            this.pokemon = pokemon;
+            Render();
+        }
+
+        public void Render()
+        {
+            pokemonNameLabel.Text = this.pokemon.Name;
+            pokemonHpLabel.Text = string.Format("HP :{0}", this.pokemon.Hp);
+            pokemonCurrentHpLabel.Text = string.Format("Current HP :{0}", this.pokemon.CurrentHp);
+        }
+
+        private void pokemonNameLabel_Click(object sender, EventArgs e)
+        {
+            EditPokemonForm form = new EditPokemonForm();
+            form.SetPokemonPanel(this);
+            form.Show();
         }
     }
 }

@@ -24,5 +24,10 @@ namespace PokemonLibrary
         {
             other.CurrentHp -= 5;
         }
+
+        public override string ToString()
+        {
+            return base.ToString() + "進化後會變成妙蛙草";  //base會把上一層(Pokemon)的東西全部叫來用
+        }
     }
 }

@@ -28,21 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.pokemonSelector = new System.Windows.Forms.ComboBox();
             this.createPokemonButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // comboBox1
+            // pokemonSelector
             // 
-            this.comboBox1.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.pokemonSelector.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.pokemonSelector.FormattingEnabled = true;
+            this.pokemonSelector.Items.AddRange(new object[] {
             "Bulbasaur",
             "Ivysaur"});
-            this.comboBox1.Location = new System.Drawing.Point(12, 12);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(206, 32);
-            this.comboBox1.TabIndex = 0;
+            this.pokemonSelector.Location = new System.Drawing.Point(12, 12);
+            this.pokemonSelector.Name = "pokemonSelector";
+            this.pokemonSelector.Size = new System.Drawing.Size(206, 32);
+            this.pokemonSelector.TabIndex = 0;
+            this.pokemonSelector.Text = "請選擇一個Pokemon";
             // 
             // createPokemonButton
             // 
@@ -61,7 +62,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(490, 354);
             this.Controls.Add(this.createPokemonButton);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.pokemonSelector);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -70,7 +71,7 @@
 
         #endregion
 
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox pokemonSelector;
         private System.Windows.Forms.Button createPokemonButton;
     }
 }

@@ -10,3 +10,16 @@ D:\Tim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example
 D:\Tim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.exe
 D:\Tim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.pdb
 D:\Tim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.PokemonPanel.resources
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\bin\Debug\Example03.exe.config
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\bin\Debug\Example03.exe
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\bin\Debug\Example03.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\bin\Debug\PokemonLibrary.dll
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\bin\Debug\PokemonLibrary.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.Form1.resources
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.PokemonPanel.resources
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.Properties.Resources.resources
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.csproj.GenerateResource.Cache
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.exe
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.pdb
+C:\Users\hctim\Dropbox\C#\CS282-Homeworks\Lecture07-Examples\Example03\obj\Debug\Example03.EditPokemonForm.resources
